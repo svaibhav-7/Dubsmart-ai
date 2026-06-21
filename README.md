@@ -298,7 +298,7 @@ PyAnnote provides better speaker diarization but requires a HuggingFace token:
 3. **Use GPU** if available (automatically detected for Whisper and PyAnnote)
 4. **Process shorter clips** (1-2 minutes recommended for demos)
 
-## 🎓 Hackathon Demo Tips
+## 🎓  Demo Tips
 
 1. **Prepare 2-3 sample audio files** with different scenarios:
    - Single speaker (news anchor)
@@ -320,7 +320,7 @@ PyAnnote provides better speaker diarization but requires a HuggingFace token:
 
 ## 📝 License
 
-This project is for educational and hackathon purposes.
+This project is for educational purposes.
 
 ## 🙏 Acknowledgments
 
@@ -331,5 +331,4 @@ This project is for educational and hackathon purposes.
 - **FFmpeg** - Audio processing
 
 ---
-
-**Made for hackathons | No training required | Uses only pre-trained models**
+**No training required | Uses only pre-trained models**
